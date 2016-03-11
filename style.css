@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Luckiest+Guy);
+
+html {
+  background: radial-gradient(#efb400, #ffe032) no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 20px;
+}
+
+h1 {
+  font-family: "Luckiest Guy";
+  margin: 2em;
+  text-align: center;
+  font-size: 300%;
+}
